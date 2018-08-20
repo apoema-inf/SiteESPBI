@@ -29,8 +29,11 @@
 }
 
 .jumbo-title{
-    font-size: 30px;
+    font-size: 27px;
     font-weight: bold;
+}
+.jumbo-sub {
+    font-size: 18px;
 }
 
 #jumbo-img-1 {
